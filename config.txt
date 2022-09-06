@@ -1,0 +1,32 @@
+{
+"app_id": "wxbad2e462a02b4090",
+"app_secret": "d6c40d89d453301602cfdd9eb808a8d7",
+
+"template_id": "	yPRNhWo6I3TAAFARWNHqerpEhXwzbNxxyqjZYV4jUNc",
+"user_id": ["o7wvX5oGjmyvmPwznqmP2L42DM3E" , 
+
+"C_ShengFen": "湖南",
+"C_ChengShi": "湘潭",
+"S_XingZuo": "狮子座",
+
+"S_Love": "2022-07-07",
+"birthday1": "2001-08-10",
+
+"C_String": "今天也是爱宝贝贝的一天",
+
+
+# 天气预报
+"API_TQYB":"511f45d28b9c11ae453f8d9bdda30642",
+# 星座运势
+"API_XZYS":"511f45d28b9c11ae453f8d9bdda30642",
+
+# 早安心语
+"511f45d28b9c11ae453f8d9bdda30642",
+# 晚安心语
+"API_WAXY":"511f45d28b9c11ae453f8d9bdda30642",
+
+# 舔狗日记
+"API_TGRJ":"511f45d28b9c11ae453f8d9bdda30642",
+# 土味情话
+"API_TWQH":"511f45d28b9c11ae453f8d9bdda30642"
+}
